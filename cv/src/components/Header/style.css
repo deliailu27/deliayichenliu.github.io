@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100&display=swap');
+* {
+    margin: 0;
+    padding: 0 }
+
+.header {
+  display: flex;
+  flex-direction: row;
+  background-color: #A1A499;
+  margin: 0;
+  padding: 0;
+  height: 5rem;
+}
+
+.header-nav{
+  margin-left: auto;
+}
+
+.header-button {
+    display: inline-block;
+    margin-right: 30px;
+    margin-top: 20px;
+}
+
+.name {
+    display: inline-block;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-weight: 800;
+}
