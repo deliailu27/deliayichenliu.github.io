@@ -25,4 +25,4 @@ Prisma
 
 I am academically trained in analytic philosophy (BA, MSc), my interests are in philosophy of cogntive science and machine ethics.<br/>
 
-[Here] is a proposal of my latest research project if you are interested in the trolley problems.
+[Here] is a full version of research proposal for my PhD project (if you are interested in the trolley problems).
