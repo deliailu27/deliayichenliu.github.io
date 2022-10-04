@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/deliayichenliu.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/deliayichenliu.github.io/static/js/main.b26f1a7c.js",
+    "static/js/787.a71561b8.chunk.js": "/deliayichenliu.github.io/static/js/787.a71561b8.chunk.js",
+    "static/media/logo.svg": "/deliayichenliu.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/deliayichenliu.github.io/index.html",
+    "main.073c9b0a.css.map": "/deliayichenliu.github.io/static/css/main.073c9b0a.css.map",
+    "main.b26f1a7c.js.map": "/deliayichenliu.github.io/static/js/main.b26f1a7c.js.map",
+    "787.a71561b8.chunk.js.map": "/deliayichenliu.github.io/static/js/787.a71561b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b26f1a7c.js"
+  ]
+}
