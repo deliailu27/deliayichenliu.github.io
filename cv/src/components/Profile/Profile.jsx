@@ -33,7 +33,7 @@ return (
             <br/><br/>
             <div className='icon' onClick={githubUrl}><GitHubIcon fontSize="large"/></div>
             <div className='icon' onClick={linkedInUrl}><LinkedInIcon fontSize="large"/></div>
-            <div className='icon' onClick={academiaUrl}><SchoolIcon/></div>
+            <div className='icon' onClick={academiaUrl}><SchoolIcon fontSize="large"/></div>
             
             
             </div>
