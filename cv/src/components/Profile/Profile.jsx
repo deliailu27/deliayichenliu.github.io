@@ -1,6 +1,7 @@
 import './style.css'
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
+import SchoolIcon from '@mui/icons-material/School';
 
 const Profile=()=>{
 
@@ -12,6 +13,11 @@ const Profile=()=>{
     const linkedInUrl=(e)=>{
         e.preventDefault();
         window.location='https://www.linkedin.com/in/delia-l-164abb138/'
+    }
+
+    const academiaUrl=(e)=>{
+        e.preventDefault()
+        window.location='https://lahoreschoolofeconomice.academia.edu/DeliaLiu'
     }
 
 return (
@@ -27,6 +33,7 @@ return (
             <br/><br/>
             <div className='icon' onClick={githubUrl}><GitHubIcon fontSize="large"/></div>
             <div className='icon' onClick={linkedInUrl}><LinkedInIcon fontSize="large"/></div>
+            <div className='icon' onClick={academiaUrl}><SchoolIcon/></div>
             
             
             </div>
